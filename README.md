@@ -1,8 +1,8 @@
 [![](https://jitpack.io/v/sakura-ryoko/tweakeroo.svg)](https://jitpack.io/#sakura-ryoko/tweakeroo)
 
-Tweakeroo
+Tweakeroo+
 ==============
-Tweakeroo is a client-side-only Minecraft mod using LiteLoader.
+Tweakeroo+ is a client-side-only Minecraft mod using fabric.
 It adds a selection of miscellaneous, configurable, client-side tweaks to the game.
 Some examples of these are the "flexible block placement" tweak and the "fast block placement" tweak.
 For more information and the downloads (compiled builds), see https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/all
